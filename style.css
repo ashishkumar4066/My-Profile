@@ -1,0 +1,29 @@
+body {
+    background: url("https://images.pexels.com/photos/1308624/pexels-photo-1308624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    background: #333333;
+    opacity: 0.8;
+}
+
+.title {
+    color: #00ff00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    padding: 5px;
+}
+
+.content {
+    color: white;
+}
+
+.wr {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
